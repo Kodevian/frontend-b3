@@ -1,0 +1,11 @@
+//- LAYOUT FOR WEB
+doctype html
+html
+   //- head : metas y configuraciones de la pag
+   include ./components/_head.pug
+   body
+      include ./components/_header.pug
+      //- content
+      block content
+      //- footer
+      include ../commons/_footer.pug

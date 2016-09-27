@@ -1,0 +1,15 @@
+{
+  "name": "Tannder",
+  "description": "",
+  "main": "",
+  "authors": [
+    "kodevian"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "jquery": "^3.0.0",
+    "font-awesome": "^4.6.3",
+  }
+}
