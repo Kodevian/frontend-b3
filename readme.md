@@ -1,6 +1,6 @@
 # Scaffolding Avanzado
 
-Este es un Directorio para projectos basicos, con una arquitectura basica para que el desarrollador se enfoque en el desarrollo.
+Este es un Directorio para projectos avanzados, que incluyan multiples vistas, con una arquitectura modular para que el desarrollador se enfoque en el desarrollo.
 
 ## Contenido
 
@@ -48,4 +48,3 @@ El directorio contiene carpetas independientes y con una funcionalidad, estan ba
 ```sh
   $ gulp clean
 ```
-
